@@ -1,0 +1,43 @@
+.position-example {
+    width: 200px;
+    height: 200px;
+    margin: 32px;
+    background-color: green;
+    color: white;
+    font-size: 46px;
+    font-weight: 400; 
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 42px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 24px ;
+
+}
+
+/* .div1 {
+    position: sticky;
+    top: 32px;
+    background-color: red;
+}
+
+.parent-div {
+    position: relative;
+}
+
+.div2 {
+    position: absolute;
+    background-color: purple;
+    top: 16px;
+}
+
+.div3 {
+    position: fixed;
+    top: 32px;
+    background-color: yellow;
+} */
+
+.div1 {
+    background-color: #E92839;
+    /* background-color: rgb(233, 40, 57); */
+}
